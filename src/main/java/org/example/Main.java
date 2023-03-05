@@ -3,8 +3,10 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-       Pisica pisica=new Pisica();
-       pisica.mananca();
+
+     Animal animal=new Animal();
+     animal.mananca();
+
 
     }
 }
